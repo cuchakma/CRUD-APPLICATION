@@ -11,3 +11,4 @@ In Order To Make This Project Work, Please Follow The Steps Below
 6. Last but not the least do not forget to change the delete, edit path on (line no - 50, 51, 52) in functions.php file.
 
 Many features are yet to arrive.
+Stay Tuned 
