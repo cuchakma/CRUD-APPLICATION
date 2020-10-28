@@ -101,7 +101,6 @@ if( isset($_POST['logout']) ) {
                     </div>
                 </div>    
                 <?php
-                echo $_POST['logout'];
             endif;
         ?>
 </div>
